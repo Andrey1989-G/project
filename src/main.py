@@ -1,1 +1,1 @@
-print('Hello for revert')
+print('all delete')
